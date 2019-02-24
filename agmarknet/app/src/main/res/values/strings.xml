@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">agmarknet</string>
+    <string name="title_activity_weekly__trends">Weekly_Trends</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_weekly__trend">Weekly_Trend</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_monthly__trends">Monthly_Trends</string>
+    <string name="title_activity_weekly_trendss">WeeklyTrendss</string>
+    <string name="title_activity_week_trends">WeekTrends</string>
+    <string name="title_activity_month_trends">MonthTrends</string>
+</resources>
